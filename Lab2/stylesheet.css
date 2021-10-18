@@ -1,0 +1,28 @@
+.main {
+    background-color: cornsilk;
+    border: 2px solid gray;
+    width: 550px;
+    padding: 10px;
+    padding-top: 1px;
+    margin:350px;
+    margin-top:30px;
+}
+h1 {
+    background-color: maroon;
+    color: cornsilk;
+    font-family: Arial;
+}
+h2{
+    color:maroon;
+    font-family:Arial;
+}
+p{
+    font-family:Bahnschrift;
+    font-size:medium;
+       
+}
+blockquote {
+    font-family:Bahnschrift;
+    text-align:right;
+    font-size:x-small;
+ }

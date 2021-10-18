@@ -1,0 +1,23 @@
+#main {
+    background-color: powderblue;
+    border: 2px solid gray;
+    width: 350px;
+    margin: 450px;
+    margin-top: 30px;
+    padding: 50px;
+    padding-left: 10px;
+    padding-top: 1px;
+    box-shadow: 8px 8px rgb(219 214 214);
+  
+}
+.warning {
+    color: red;
+    }   
+    
+ul {
+     color: red;
+     font-weight: bold;
+     font-size: large;
+    }
+
+
